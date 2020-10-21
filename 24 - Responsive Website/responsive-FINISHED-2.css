@@ -33,6 +33,10 @@ img {
   padding: 10px;
 }
 
+.pen img {
+  min-width: 40px;
+}
+
 /* Original Taco code */
 
 .top {
