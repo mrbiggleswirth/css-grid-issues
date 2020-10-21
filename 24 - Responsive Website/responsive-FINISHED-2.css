@@ -19,6 +19,22 @@ img {
   grid-gap: 20px;
 }
 
+/* Added Codepen Header */
+
+.pen {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-flow: column;
+  align-items: center;
+  grid-gap: 10px;
+  background: black;
+  border-bottom: 5px solid var(--grey);
+  color: white;
+  padding: 10px;
+}
+
+/* Original Taco code */
+
 .top {
   display: grid;
   grid-gap: 20px;
