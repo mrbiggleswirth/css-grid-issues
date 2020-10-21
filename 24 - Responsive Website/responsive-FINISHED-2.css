@@ -21,7 +21,7 @@ img {
 
 /* Added Codepen Header */
 
-.pen {
+.pen1 {
   display: grid;
   grid-template-columns: 1fr;
   grid-auto-flow: column;
@@ -33,7 +33,29 @@ img {
   padding: 10px;
 }
 
-.pen img {
+.pen2 {
+  display: flex;
+  background: black;
+  color: white;
+  align-items: center;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.scrubber {
+  /* background: blueviolet; */
+  background: none;
+  min-width: 100px;
+  height: 10px;
+  border-radius: 10px;
+  flex: 1;
+}
+
+.pen1 img {
+  min-width: 40px;
+}
+
+.pen2 img {
   min-width: 40px;
 }
 
