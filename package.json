@@ -1,0 +1,14 @@
+{
+  "name": "css-grid-issues",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mrbiggleswirth/css-grid-issues.git",
+  "author": "kitty",
+  "scripts": {
+    "start": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777 --browser \"C:\\Program Files\\Firefox Developer Edition\\firefox.exe\""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
