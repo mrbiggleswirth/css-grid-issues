@@ -24,7 +24,7 @@ li {
 
       /* EXPERIMENTAL */
       /* grid-template-columns: 1fr 1fr 1fr 1fr; */
-      grid-template-columns: 2em 10fr 5em 5em;
+      grid-template-columns: 2em 10fr 5em 9em;
   }
 
   .attribute-container {
