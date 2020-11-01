@@ -2,7 +2,8 @@
 Generic Styling, for Desktops/Laptops 
 */
 table { 
-  width: 100%; 
+	width: 100%; 
+	/* width: 70%;  */
   border-collapse: collapse; 
 }
 /* Zebra striping */
