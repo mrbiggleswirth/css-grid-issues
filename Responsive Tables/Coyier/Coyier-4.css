@@ -39,19 +39,6 @@ td, th {
 		display: block;
 	}
 
-	/* ......................................... */
-
-/* 	
-	th { 
-	  background: #333; 
-	  color: white; 
-	  font-weight: bold; 
-	}
-*/
-
-	/* ......................................... */
-
-
 	/* Hide table headers (but not display: none;, for accessibility) */
 	thead tr {
 		position: absolute;
@@ -86,13 +73,6 @@ td, th {
 		padding-right: 10px;
 		white-space: nowrap;
 	}
-
-	/* Customized Coyier code */
-/* 	td, th { 
-	  padding: 6px; 
-	  border: 1px solid #ccc; 
-	  text-align: left; 
-	} */
 
 	/*
 	Label the data
